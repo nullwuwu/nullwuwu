@@ -3,7 +3,6 @@
 #### Hello 👏
 
 > 💬 I'm a front-end software developer creating open source projects and writing about modern JavaScript, Node.js, and development.
-> 🔭 I’m currently working on rich text editor with serverless application.
 
 🔗 http://nullwuwu.cn/
 
